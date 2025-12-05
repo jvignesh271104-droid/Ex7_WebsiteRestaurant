@@ -1,4 +1,4 @@
-# Ex.07 Restaurant Website
+# Ex.06 Restaurant Website
 ## Date:
 
 ## AIM:
@@ -28,7 +28,9 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-
+```
+INCLUDE YOUR PROGRAM HERE
+```
 
 ## OUTPUT:
 
