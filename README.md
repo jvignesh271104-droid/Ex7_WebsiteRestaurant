@@ -1,5 +1,5 @@
 # Ex.06 Restaurant Website
-## Date:
+## Date:23.12.2025
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
@@ -28,7 +28,6 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-```
 ```
 <!DOCTYPE html>
 <html>
@@ -154,11 +153,11 @@ Publish the website in the given URL.
 </div>
 
 </body>
-</html>```
-
+</html>
+```
+```
 contact.html
-
-```<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <title>Contact Us - HOTSPOT</title>
@@ -245,11 +244,11 @@ contact.html
 </div>
 
 </body>
-</html>```
-
-
+</html>
+```
+```
 index.html
-```<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>=
     <title>EQUITORIAL</title>
@@ -371,10 +370,11 @@ index.html
 </footer>
 
 </body>
-</html>```
-
+</html>
+```
+```
 menu.html
-```<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <style>
@@ -491,15 +491,13 @@ menu.html
 </div>
 
 </body>
-</html>```
-
+</html>
+```
 
 ## OUTPUT
-![Uploading Screenshot 2025-12-18 225423.png…]()
-<img width="1919" height="1079" alt="Screenshot 2025-12-18 225527" src="https://github.com/user-attachments/assets/23fd38a4-19ab-4fb5-a9aa-20bd9fb03d4e" />
-![Uploading Screenshot 2025-12-21 134313.png…]()
-<img width="1919" height="1079" alt="Screenshot 2025-12-18 225138" src="https://github.com/user-attachments/assets/617469a9-a2a5-43f2-9235-60c0135794c7" />
-
-
+![alt text](<WhatsApp Image 2025-12-23 at 4.15.01 PM.jpeg>)
+![alt text](<WhatsApp Image 2025-12-23 at 4.15.02 PM.jpeg>)
+![alt text](<WhatsApp Image 2025-12-23 at 4.15.07 PM.jpeg>)
+![alt text](<WhatsApp Image 2025-12-23 at 4.15.09 PM.jpeg>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
