@@ -154,8 +154,7 @@ Publish the website in the given URL.
 
 </body>
 </html>
-```
-```
+
 contact.html
 <!DOCTYPE html>
 <html>
@@ -245,8 +244,7 @@ contact.html
 
 </body>
 </html>
-```
-```
+
 index.html
 <!DOCTYPE html>
 <html>
@@ -371,8 +369,7 @@ index.html
 
 </body>
 </html>
-```
-```
+
 menu.html
 <!DOCTYPE html>
 <html>
